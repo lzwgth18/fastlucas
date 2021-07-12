@@ -146,7 +146,7 @@ proxies:
   #   aes-128-ctr aes-192-ctr aes-256-ctr
   #   rc4-md5 chacha20-ietf xchacha20
   #   chacha20-ietf-poly1305 xchacha20-ietf-poly1305
-  - name: "awstestmaybe"
+  - name: "ss1"
     type: ss
     server: 54.176040.229
     port: 15000
