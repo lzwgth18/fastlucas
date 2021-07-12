@@ -1,0 +1,9 @@
+# my ser
+
+- name: "servercali"
+  type: ss
+  server: 54.176.40.229
+  port: 15000
+  cipher: aes-128-gcm
+  password: "IZWY5c3S6tMVIn8x"
+  udp: true
